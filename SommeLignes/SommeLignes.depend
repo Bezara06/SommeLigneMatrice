@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1713308286 source:c:\users\anicia\desktop\sommelignes\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1713315952 source:e:\c++\sommelignes\main.c
+	<stdio.h>
+	<stdlib.h>
+
